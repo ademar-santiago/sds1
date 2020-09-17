@@ -1,4 +1,4 @@
-package com.devsuperior.dspesquisa.entities;
+ package com.devsuperior.dspesquisa.entities;
 
 import java.io.Serializable;
 import java.util.ArrayList;
